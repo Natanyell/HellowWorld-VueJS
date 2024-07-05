@@ -24,4 +24,4 @@ npm run lint
 
 ### Personalização da Configuração
 Para personalizar a configuração do projeto, consulte a [referência de configuração](https://cli.vuejs.org/config/).
-# HellowWorld-VueJS
+
